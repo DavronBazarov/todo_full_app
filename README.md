@@ -1,16 +1,17 @@
 # todo_full_app
 
-using http and hive
-
-## Getting Started
+##This app helps you manage your tasks completely
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+using : Provider, Firebase Database REST API, Hive
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Created by Bazarov Davron
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Telegram for contact : [ @bazarov1998](https://t.me/bazarov1998)
+
+
+
+
+
+
